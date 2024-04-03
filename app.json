@@ -4,9 +4,6 @@
     "repository": "https://github.com/Prime-Hritu/image2pdf-Bot",
     "keywords": ["Pdf ", "pyrogram", "telegram bot"],
     "env": {
-        "token": {
-            "description": "Your Bot token from @Botfather"
-        },
     "buildpacks": [
         {
             "url": "heroku/python"
